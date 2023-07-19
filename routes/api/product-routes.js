@@ -42,7 +42,7 @@ router.get('/:id', (req, res) => {
     });
 });
 
-// creat new product
+//make new product
 router.post('/', (req, res) => {
   /* req.body should look like this...
     {
