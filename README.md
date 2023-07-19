@@ -20,3 +20,6 @@ Then you can run the server with npm start
 
 ## contact me 
 https://github.com/michellesambuu
+
+## video insert 
+	https://drive.google.com/file/d/1-eXlQOVSqUd3kOWpBiERzE0pmr3BpwZr/view
