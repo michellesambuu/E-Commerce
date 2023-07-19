@@ -18,3 +18,5 @@ After running the Schema file, run node seeds/
 Then you can run the server with npm start
 
 
+## contact me 
+https://github.com/michellesambuu
